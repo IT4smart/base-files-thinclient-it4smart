@@ -1,7 +1,7 @@
 PRETTY_NAME="IT4smart Thinclient"
 NAME="IT4smart-TC"
-VERSION="October 2018"
-VERSION_ID="2018.10-1"
+VERSION="September 2019"
+VERSION_ID="2019.09-1"
 ID=it4smart-tc
 ID_LIKE=debian
 
